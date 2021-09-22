@@ -14,6 +14,5 @@ int main_3_4()
 	printf("(%d == %d)의 결괴는 &d입니다.\n", x, y, x == y);
 	printf("(%d != %d)의 결괴는 &d입니다.\n", x, y, x != y);
 
-
 	return 0;
 }

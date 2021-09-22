@@ -60,5 +60,47 @@
     <ClCompile Include="pro2_7.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pro3_1.C">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro3_14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

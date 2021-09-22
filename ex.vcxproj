@@ -154,6 +154,20 @@
     <ClCompile Include="pro2_5.c" />
     <ClCompile Include="pro2_6.c" />
     <ClCompile Include="pro2_7.c" />
+    <ClCompile Include="pro3_1.C" />
+    <ClCompile Include="pro3_10.c" />
+    <ClCompile Include="pro3_11.c" />
+    <ClCompile Include="pro3_12.c" />
+    <ClCompile Include="pro3_13.c" />
+    <ClCompile Include="pro3_14.c" />
+    <ClCompile Include="pro3_2.c" />
+    <ClCompile Include="pro3_3.c" />
+    <ClCompile Include="pro3_4.c" />
+    <ClCompile Include="pro3_5.c" />
+    <ClCompile Include="pro3_6.c" />
+    <ClCompile Include="pro3_7.c" />
+    <ClCompile Include="pro3_8.c" />
+    <ClCompile Include="pro3_9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

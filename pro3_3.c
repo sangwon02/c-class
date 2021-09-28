@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main()
+int main_3_3()
 {
 	char lower, upper, char_num, num;
 

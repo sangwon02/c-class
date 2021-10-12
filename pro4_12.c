@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int main()
+int main_4_12()
 {
 	//프로그램 5-8
 	int x, y, result;
@@ -14,7 +14,7 @@ int main()
 	scanf_s("%c", &op);
 	scanf_s("%d", &y);
 
-	switch (op)
+	switch (op) //연산자의 종료별로 설정
 	{
 	case '+':result = x + y; break;
 	case '-':result = x - y; break;

@@ -14,7 +14,7 @@ int main_4_6()
 		printf("짝수입니다.\n");
 	else
 		printf("홀수입니다.\n");
-
+	//짝수는 2의 배수인것을 이용
 
 
 	return 0;

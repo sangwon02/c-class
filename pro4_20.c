@@ -10,7 +10,7 @@ int main_4_20()
     {
         area = area / 2;
         printf("%2d¹ø Á¢¾úÀ» ¶§ÀÇ ³ĞÀÌ : %6.2lf \n", i, area);
-        if (area < target)
+        if (area < target)// ³ĞÀÌ°¡ 1º¸´Ù ÀÛÀ¸¸é ¸ØÃã
             break;
     }
 

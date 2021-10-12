@@ -8,7 +8,7 @@ int main_4_5()
 	printf("현재 온도는?");
 	scanf_s("%d", &temp); // temp에 온도 입력받기
 
-	if (temp < 0)
+	if (temp < 0) //현재 온도가 영하인 경우만 실행
 		printf("오늘은 영하이며");
 
 	printf("현재 온도는 %d정도입니다.\n", temp);

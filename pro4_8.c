@@ -19,6 +19,7 @@ int main_4_8()
         grade = 'D';
     else
         grade = 'F';
+    //점수에 따라서 한문자를 grade에 저장
 
     printf("학점:%c\n", grade);
 

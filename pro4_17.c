@@ -7,11 +7,12 @@ int main_4_17()
 
 	printf("1부터 n까지의 합과 곱을 구합니다. 정수n은?");
 	scanf_s("%d", &n);
-
+	 //1에서 n까지의 합을 구하기
 	sum = 0;
 	for (i = 1; i <= n; i++)
 		sum = sum + i;
 
+	//1에서 n까지의 곱 n!을 구하기
 	factorial = 1;
 	for (i = 1; i <= n; i++)
 		factorial = factorial * i;

@@ -5,7 +5,8 @@ int main_4_10()
 {
 	//프로그램5-6
 	int x, y, result;
-	char op;
+	char op;  //변수 생성
+
 	printf("수식을 입력하시오.\n");
 	printf("연산자의 종류 : + - * / %% & | ^\n");
 	printf("입력 예: 2 + 3\n\n입력>>");

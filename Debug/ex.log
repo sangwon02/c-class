@@ -1,4 +1,10 @@
-﻿  pro5_12.c
-  pro5_13.c
-  코드를 생성하고 있습니다...
+﻿  pro6_13.c
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(64,133): warning C4098: 'Min': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(68,133): warning C4098: 'Min': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(72,133): warning C4098: 'Min': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(77,130): warning C4098: 'Max': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(81,130): warning C4098: 'Max': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(85,130): warning C4098: 'Max': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(126,13): warning C4098: 'Up': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\sangw\Desktop\ex\ex\pro6_13.c(167,13): warning C4098: 'Down': 'void' 함수에서 값을 반환하고 있습니다.
   ex.vcxproj -> C:\Users\sangw\Desktop\ex\Debug\ex.exe

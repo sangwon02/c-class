@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <TreatSpecificWarningsAsErrors>4996</TreatSpecificWarningsAsErrors>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -221,6 +222,15 @@
     <ClCompile Include="pro6_7.c" />
     <ClCompile Include="pro6_8.c" />
     <ClCompile Include="pro6_9.c" />
+    <ClCompile Include="pro7_1.c" />
+    <ClCompile Include="pro7_2.c" />
+    <ClCompile Include="pro7_3.c" />
+    <ClCompile Include="pro7_4.c" />
+    <ClCompile Include="pro7_5.c" />
+    <ClCompile Include="pro7_6.c" />
+    <ClCompile Include="pro7_7.c" />
+    <ClCompile Include="pro7_8.c" />
+    <ClCompile Include="pro7_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="pro6_12.c" />

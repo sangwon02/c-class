@@ -1,2 +1,29 @@
 ﻿  pro7_1.c
 C:\Users\sangw\Desktop\ex\ex\pro7_1.c(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro7_6.c
+C:\Users\sangw\Desktop\ex\ex\pro7_6.c(21,11): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  pro7_9.c
+C:\Users\sangw\Desktop\ex\ex\pro7_9.c(22,10): warning C4098: 'main_7_9': 'void' 함수에서 값을 반환하고 있습니다.
+  pro8_1.c
+  pro8_10.c
+C:\Users\sangw\Desktop\ex\ex\pro8_10.c(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_11.c
+  pro8_2.c
+  pro8_3.c
+C:\Users\sangw\Desktop\ex\ex\pro8_3.c(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_4.c
+C:\Users\sangw\Desktop\ex\ex\pro8_4.c(10,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_5.c
+C:\Users\sangw\Desktop\ex\ex\pro8_5.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_5.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_6.c
+C:\Users\sangw\Desktop\ex\ex\pro8_6.c(11,32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_6.c(12,32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_7.c
+C:\Users\sangw\Desktop\ex\ex\pro8_7.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_7.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro8_8.c
+  pro8_9.c
+C:\Users\sangw\Desktop\ex\ex\pro8_9.c(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Users\sangw\Desktop\ex\ex\pro8_8.c(30): error C4700: 초기화되지 않은 'local_sum' 지역 변수를 사용했습니다.

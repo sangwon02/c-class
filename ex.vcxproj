@@ -231,6 +231,17 @@
     <ClCompile Include="pro7_7.c" />
     <ClCompile Include="pro7_8.c" />
     <ClCompile Include="pro7_9.c" />
+    <ClCompile Include="pro8_1.c" />
+    <ClCompile Include="pro8_10.c" />
+    <ClCompile Include="pro8_11.c" />
+    <ClCompile Include="pro8_2.c" />
+    <ClCompile Include="pro8_3.c" />
+    <ClCompile Include="pro8_4.c" />
+    <ClCompile Include="pro8_5.c" />
+    <ClCompile Include="pro8_6.c" />
+    <ClCompile Include="pro8_7.c" />
+    <ClCompile Include="pro8_8.c" />
+    <ClCompile Include="pro8_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="pro6_12.c" />

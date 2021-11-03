@@ -288,6 +288,39 @@
     <ClCompile Include="pro7_9.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="pro8_1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pro8_11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="pro6_4.c">

@@ -140,6 +140,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="pro10_1.c" />
+    <ClCompile Include="pro10_2.c" />
+    <ClCompile Include="pro10_3.c" />
+    <ClCompile Include="pro10_4.c" />
+    <ClCompile Include="pro10_5.c" />
+    <ClCompile Include="pro10_6.c" />
+    <ClCompile Include="pro10_7.c" />
+    <ClCompile Include="pro10_8.c" />
+    <ClCompile Include="pro10_9.c" />
     <ClCompile Include="pro1_1.c" />
     <ClCompile Include="pro1_2.c" />
     <ClCompile Include="pro1_3.c" />
@@ -242,6 +251,19 @@
     <ClCompile Include="pro8_7.c" />
     <ClCompile Include="pro8_8.c" />
     <ClCompile Include="pro8_9.c" />
+    <ClCompile Include="pro9_1.c" />
+    <ClCompile Include="pro9_10.c" />
+    <ClCompile Include="pro9_11.c" />
+    <ClCompile Include="pro9_12.c" />
+    <ClCompile Include="pro9_13.c" />
+    <ClCompile Include="pro9_2.c" />
+    <ClCompile Include="pro9_3.c" />
+    <ClCompile Include="pro9_4.c" />
+    <ClCompile Include="pro9_5.c" />
+    <ClCompile Include="pro9_6.c" />
+    <ClCompile Include="pro9_7.c" />
+    <ClCompile Include="pro9_8.c" />
+    <ClCompile Include="pro9_9.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="pro6_12.c" />

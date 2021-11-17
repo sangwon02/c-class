@@ -1,13 +1,17 @@
 #include <stdio.h>
 
-int main()
-
+//연습문제 8번
+int main_10_9()
 {
-	int sum = 0;
-	int* ptr; // ptr 선언       
-	ptr = &sum;   // ptr이 sum을 가리키기  
-	printf("sum=%d\n", *ptr);  //ptr을 이용하여 sum 값을 출력하기
+	char* ptr, note[] = "See you at the snack bar!";
+	ptr = note;
+	puts(ptr);
+	ptr++;
+	puts(++ptr);
+	note[7] = '!';
+	note[8] = '\0';
+	puts(note);
 
-	return 0:
+	return 0;
 
 }

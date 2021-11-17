@@ -149,6 +149,12 @@
     <ClCompile Include="pro10_7.c" />
     <ClCompile Include="pro10_8.c" />
     <ClCompile Include="pro10_9.c" />
+    <ClCompile Include="pro11_1.c" />
+    <ClCompile Include="pro11_2.c" />
+    <ClCompile Include="pro11_3.c" />
+    <ClCompile Include="pro11_4.c" />
+    <ClCompile Include="pro11_5.c" />
+    <ClCompile Include="pro11_6.c" />
     <ClCompile Include="pro1_1.c" />
     <ClCompile Include="pro1_2.c" />
     <ClCompile Include="pro1_3.c" />

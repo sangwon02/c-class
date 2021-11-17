@@ -1,13 +1,13 @@
 #include <stdio.h>
 
-int main()
-
+//연습문제 5번
+int main_10_6()
 {
-	int sum = 0;
-	int* ptr; // ptr 선언       
-	ptr = &sum;   // ptr이 sum을 가리키기  
-	printf("sum=%d\n", *ptr);  //ptr을 이용하여 sum 값을 출력하기
+	int index = 0, *ptr;
+	ptr = &index;
+	index++;
+	* ptr = *ptr + 1;
+	printf("index = %d, *ptr = %d \n", index, *ptr);
 
-	return 0:
-
+	return 0;
 }

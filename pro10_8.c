@@ -1,13 +1,10 @@
 #include <stdio.h>
-
-int main()
-
+//연습문제 7번
+int main_10_8()
 {
-	int sum = 0;
-	int* ptr; // ptr 선언       
-	ptr = &sum;   // ptr이 sum을 가리키기  
-	printf("sum=%d\n", *ptr);  //ptr을 이용하여 sum 값을 출력하기
+	int* ptr, a[5] = { 10, 20, 30, 40, 50 };
+	ptr = a;
+	printf("간접 참조: %d, 직접 참조: %d", *(ptr + 3), ptr[3]);
 
-	return 0:
-
+	return 0;
 }

@@ -1,14 +1,20 @@
-﻿  pro7_1.c
+﻿  pro10_1.c
+C:\Users\sangw\Desktop\ex\ex\pro10_1.c(14,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_1.c(16,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_1.c(17,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_1.c(19,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_1.c(20,4): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro10_2.c
+C:\Users\sangw\Desktop\ex\ex\pro10_2.c(24,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_2.c(25,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro10_2.c(26,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro10_3.c
+  pro7_1.c
 C:\Users\sangw\Desktop\ex\ex\pro7_1.c(16,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  pro7_6.c
-C:\Users\sangw\Desktop\ex\ex\pro7_6.c(21,11): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  pro7_9.c
-C:\Users\sangw\Desktop\ex\ex\pro7_9.c(22,10): warning C4098: 'main_7_9': 'void' 함수에서 값을 반환하고 있습니다.
-  pro8_1.c
   pro8_10.c
-C:\Users\sangw\Desktop\ex\ex\pro8_10.c(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_10.c(10,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   pro8_11.c
-  pro8_2.c
+C:\Users\sangw\Desktop\ex\ex\pro8_11.c(23,33): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
   pro8_3.c
 C:\Users\sangw\Desktop\ex\ex\pro8_3.c(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   pro8_4.c
@@ -17,13 +23,29 @@ C:\Users\sangw\Desktop\ex\ex\pro8_4.c(10,2): error C4996: 'scanf': This function
 C:\Users\sangw\Desktop\ex\ex\pro8_5.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\sangw\Desktop\ex\ex\pro8_5.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   pro8_6.c
-C:\Users\sangw\Desktop\ex\ex\pro8_6.c(11,32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\sangw\Desktop\ex\ex\pro8_6.c(12,32): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_6.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_6.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   pro8_7.c
-C:\Users\sangw\Desktop\ex\ex\pro8_7.c(12,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\sangw\Desktop\ex\ex\pro8_7.c(14,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_7.c(13,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro8_7.c(15,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   pro8_8.c
   pro8_9.c
 C:\Users\sangw\Desktop\ex\ex\pro8_9.c(15,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro9_11.c
+C:\Users\sangw\Desktop\ex\ex\pro9_11.c(13,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro9_11.c(14,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro9_11.c(15,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro9_12.c
+C:\Users\sangw\Desktop\ex\ex\pro9_12.c(11,6): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\sangw\Desktop\ex\ex\pro9_12.c(25,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  pro9_5.c
+C:\Users\sangw\Desktop\ex\ex\pro9_5.c(16,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\sangw\Desktop\ex\ex\pro9_5.c(32,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  pro9_6.c
+C:\Users\sangw\Desktop\ex\ex\pro9_6.c(18,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\Users\sangw\Desktop\ex\ex\pro9_6.c(18,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\sangw\Desktop\ex\ex\pro9_6.c(22,10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Users\sangw\Desktop\ex\ex\pro9_6.c(28,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+  pro9_9.c
   코드를 생성하고 있습니다...
-C:\Users\sangw\Desktop\ex\ex\pro8_8.c(30): error C4700: 초기화되지 않은 'local_sum' 지역 변수를 사용했습니다.
+C:\Users\sangw\Desktop\ex\ex\pro8_8.c(31): error C4700: 초기화되지 않은 'local_sum' 지역 변수를 사용했습니다.

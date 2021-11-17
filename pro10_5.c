@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int main()
+
+//연습문제 3번
+int main_10_5()
 
 {
 	int a = 20, b = 10, *p1, * p2, * p3;
